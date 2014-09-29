@@ -1,0 +1,1080 @@
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.3
+      Found: 1211  Not Found: 198789
+      Fraction of successful finds: 0.006055
+      Ave probes for successful find: 0.18084227910817507
+      Ave probes for unsuccess. find: 0.4954499494438827
+      Ave probes for all finds: 0.493545
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.4
+      Found: 1530  Not Found: 198470
+      Fraction of successful finds: 0.00765
+      Ave probes for successful find: 0.3686274509803922
+      Ave probes for unsuccess. find: 0.9007356275507633
+      Ave probes for all finds: 0.896665
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.5
+      Found: 2020  Not Found: 197980
+      Fraction of successful finds: 0.0101
+      Ave probes for successful find: 0.47376237623762374
+      Ave probes for unsuccess. find: 1.6521315284372158
+      Ave probes for all finds: 1.64023
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.6
+      Found: 2369  Not Found: 197631
+      Fraction of successful finds: 0.011845
+      Ave probes for successful find: 0.7083157450401013
+      Ave probes for unsuccess. find: 2.266764829404294
+      Ave probes for all finds: 2.248305
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.7
+      Found: 2779  Not Found: 197221
+      Fraction of successful finds: 0.013895
+      Ave probes for successful find: 1.006117308384311
+      Ave probes for unsuccess. find: 3.8320868467353884
+      Ave probes for all finds: 3.79282
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.8
+      Found: 3116  Not Found: 196884
+      Fraction of successful finds: 0.01558
+      Ave probes for successful find: 1.9242618741976893
+      Ave probes for unsuccess. find: 11.031780134495438
+      Ave probes for all finds: 10.889885
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.9
+      Found: 3523  Not Found: 196477
+      Fraction of successful finds: 0.017615
+      Ave probes for successful find: 2.8072665342038037
+      Ave probes for unsuccess. find: 20.596426044778777
+      Ave probes for all finds: 20.28307
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.95
+      Found: 3818  Not Found: 196182
+      Fraction of successful finds: 0.01909
+      Ave probes for successful find: 7.712676794133054
+      Ave probes for unsuccess. find: 99.08343273083157
+      Ave probes for all finds: 97.339165
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.98
+      Found: 3912  Not Found: 196088
+      Fraction of successful finds: 0.01956
+      Ave probes for successful find: 8.382924335378323
+      Ave probes for unsuccess. find: 103.4533270776386
+      Ave probes for all finds: 101.59375
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.3
+      Found: 1215  Not Found: 198785
+      Fraction of successful finds: 0.006075
+      Ave probes for successful find: 0.22386831275720165
+      Ave probes for unsuccess. find: 0.5263173780717861
+      Ave probes for all finds: 0.52448
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.4
+      Found: 1544  Not Found: 198456
+      Fraction of successful finds: 0.00772
+      Ave probes for successful find: 0.3484455958549223
+      Ave probes for unsuccess. find: 0.8684695851977264
+      Ave probes for all finds: 0.864455
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.5
+      Found: 2011  Not Found: 197989
+      Fraction of successful finds: 0.010055
+      Ave probes for successful find: 0.44604674291397317
+      Ave probes for unsuccess. find: 1.3512316340806811
+      Ave probes for all finds: 1.34213
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.6
+      Found: 2412  Not Found: 197588
+      Fraction of successful finds: 0.01206
+      Ave probes for successful find: 0.777363184079602
+      Ave probes for unsuccess. find: 2.65586978966334
+      Ave probes for all finds: 2.633215
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.7
+      Found: 2860  Not Found: 197140
+      Fraction of successful finds: 0.0143
+      Ave probes for successful find: 1.347902097902098
+      Ave probes for unsuccess. find: 5.219174190930303
+      Ave probes for all finds: 5.163815
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.8
+      Found: 3203  Not Found: 196797
+      Fraction of successful finds: 0.016015
+      Ave probes for successful find: 1.8566968467062128
+      Ave probes for unsuccess. find: 11.039807517391017
+      Ave probes for all finds: 10.89274
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.9
+      Found: 3579  Not Found: 196421
+      Fraction of successful finds: 0.017895
+      Ave probes for successful find: 4.559653534506846
+      Ave probes for unsuccess. find: 44.503739416864796
+      Ave probes for all finds: 43.78894
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.95
+      Found: 3762  Not Found: 196238
+      Fraction of successful finds: 0.01881
+      Ave probes for successful find: 4.518075491759702
+      Ave probes for unsuccess. find: 52.68812870086324
+      Ave probes for all finds: 51.78205
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.98
+      Found: 3731  Not Found: 196269
+      Fraction of successful finds: 0.018655
+      Ave probes for successful find: 8.147413562047708
+      Ave probes for unsuccess. find: 168.3525365697079
+      Ave probes for all finds: 165.36391
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.3
+      Found: 1152  Not Found: 198848
+      Fraction of successful finds: 0.00576
+      Ave probes for successful find: 0.2630208333333333
+      Ave probes for unsuccess. find: 0.5202918812359189
+      Ave probes for all finds: 0.51881
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.4
+      Found: 1562  Not Found: 198438
+      Fraction of successful finds: 0.00781
+      Ave probes for successful find: 0.3265044814340589
+      Ave probes for unsuccess. find: 0.878511172255314
+      Ave probes for all finds: 0.8742
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.5
+      Found: 1987  Not Found: 198013
+      Fraction of successful finds: 0.009935
+      Ave probes for successful find: 0.48314041268243585
+      Ave probes for unsuccess. find: 1.4223662082792543
+      Ave probes for all finds: 1.413035
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.6
+      Found: 2479  Not Found: 197521
+      Fraction of successful finds: 0.012395
+      Ave probes for successful find: 0.8265429608713191
+      Ave probes for unsuccess. find: 2.791743662699156
+      Ave probes for all finds: 2.767385
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.7
+      Found: 2783  Not Found: 197217
+      Fraction of successful finds: 0.013915
+      Ave probes for successful find: 1.1631333093783687
+      Ave probes for unsuccess. find: 4.754209829781408
+      Ave probes for all finds: 4.70424
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.8
+      Found: 3154  Not Found: 196846
+      Fraction of successful finds: 0.01577
+      Ave probes for successful find: 1.7438173747622068
+      Ave probes for unsuccess. find: 11.281616085671033
+      Ave probes for all finds: 11.131205
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.9
+      Found: 3522  Not Found: 196478
+      Fraction of successful finds: 0.01761
+      Ave probes for successful find: 3.261215218625781
+      Ave probes for unsuccess. find: 36.20199208053828
+      Ave probes for all finds: 35.621905
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.95
+      Found: 3741  Not Found: 196259
+      Fraction of successful finds: 0.018705
+      Ave probes for successful find: 5.037690457097033
+      Ave probes for unsuccess. find: 89.5214792697405
+      Ave probes for all finds: 87.94121
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.98
+      Found: 3890  Not Found: 196110
+      Fraction of successful finds: 0.01945
+      Ave probes for successful find: 9.070437017994859
+      Ave probes for unsuccess. find: 228.06421396155218
+      Ave probes for all finds: 223.804785
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.3
+      Found: 1172  Not Found: 198828
+      Fraction of successful finds: 0.00586
+      Ave probes for successful find: 0.20563139931740615
+      Ave probes for unsuccess. find: 0.5136751362987104
+      Ave probes for all finds: 0.51187
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.4
+      Found: 1615  Not Found: 198385
+      Fraction of successful finds: 0.008075
+      Ave probes for successful find: 0.3281733746130031
+      Ave probes for unsuccess. find: 0.8574741033848325
+      Ave probes for all finds: 0.8532
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.5
+      Found: 2051  Not Found: 197949
+      Fraction of successful finds: 0.010255
+      Ave probes for successful find: 0.46270112140419306
+      Ave probes for unsuccess. find: 1.4244729703105345
+      Ave probes for all finds: 1.41461
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.6
+      Found: 2510  Not Found: 197490
+      Fraction of successful finds: 0.01255
+      Ave probes for successful find: 0.7637450199203187
+      Ave probes for unsuccess. find: 2.555876246898577
+      Ave probes for all finds: 2.533385
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.7
+      Found: 2764  Not Found: 197236
+      Fraction of successful finds: 0.01382
+      Ave probes for successful find: 1.2290159189580319
+      Ave probes for unsuccess. find: 5.913246060556896
+      Ave probes for all finds: 5.84851
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.8
+      Found: 3245  Not Found: 196755
+      Fraction of successful finds: 0.016225
+      Ave probes for successful find: 1.6585516178736517
+      Ave probes for unsuccess. find: 10.758374628344896
+      Ave probes for all finds: 10.61073
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.9
+      Found: 3478  Not Found: 196522
+      Fraction of successful finds: 0.01739
+      Ave probes for successful find: 3.897354801610121
+      Ave probes for unsuccess. find: 33.72869195306378
+      Ave probes for all finds: 33.209925
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.95
+      Found: 3718  Not Found: 196282
+      Fraction of successful finds: 0.01859
+      Ave probes for successful find: 5.27810650887574
+      Ave probes for unsuccess. find: 72.09073679705729
+      Ave probes for all finds: 70.84869
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.98
+      Found: 3838  Not Found: 196162
+      Fraction of successful finds: 0.01919
+      Ave probes for successful find: 14.739968733715477
+      Ave probes for unsuccess. find: 410.0801837256961
+      Ave probes for all finds: 402.493605
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.3
+      Found: 1169  Not Found: 198831
+      Fraction of successful finds: 0.005845
+      Ave probes for successful find: 0.1941830624465355
+      Ave probes for unsuccess. find: 0.49765881577822374
+      Ave probes for all finds: 0.495885
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.4
+      Found: 1646  Not Found: 198354
+      Fraction of successful finds: 0.00823
+      Ave probes for successful find: 0.31044957472660994
+      Ave probes for unsuccess. find: 0.8412585579317785
+      Ave probes for all finds: 0.83689
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.5
+      Found: 1963  Not Found: 198037
+      Fraction of successful finds: 0.009815
+      Ave probes for successful find: 0.4722363728986246
+      Ave probes for unsuccess. find: 1.4248549513474755
+      Ave probes for all finds: 1.415505
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.6
+      Found: 2300  Not Found: 197700
+      Fraction of successful finds: 0.0115
+      Ave probes for successful find: 0.731304347826087
+      Ave probes for unsuccess. find: 2.481522508851796
+      Ave probes for all finds: 2.461395
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.7
+      Found: 2765  Not Found: 197235
+      Fraction of successful finds: 0.013825
+      Ave probes for successful find: 1.095117540687161
+      Ave probes for unsuccess. find: 4.715055644282201
+      Ave probes for all finds: 4.66501
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.8
+      Found: 3138  Not Found: 196862
+      Fraction of successful finds: 0.01569
+      Ave probes for successful find: 1.8760356915232632
+      Ave probes for unsuccess. find: 10.4905314382664
+      Ave probes for all finds: 10.35537
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.9
+      Found: 3503  Not Found: 196497
+      Fraction of successful finds: 0.017515
+      Ave probes for successful find: 4.531829860119897
+      Ave probes for unsuccess. find: 38.2620599805595
+      Ave probes for all finds: 37.671275
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.95
+      Found: 3840  Not Found: 196160
+      Fraction of successful finds: 0.0192
+      Ave probes for successful find: 7.75859375
+      Ave probes for unsuccess. find: 98.54941374388254
+      Ave probes for all finds: 96.80623
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.98
+      Found: 3829  Not Found: 196171
+      Fraction of successful finds: 0.019145
+      Ave probes for successful find: 15.908592321755027
+      Ave probes for unsuccess. find: 324.05769965999053
+      Ave probes for all finds: 318.158185
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.3
+      Found: 1211  Not Found: 198789
+      Fraction of successful finds: 0.006055
+      Ave probes for successful find: 0.11890999174236168
+      Ave probes for unsuccess. find: 0.2915201545357137
+      Ave probes for all finds: 0.290475
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.4
+      Found: 1530  Not Found: 198470
+      Fraction of successful finds: 0.00765
+      Ave probes for successful find: 0.2196078431372549
+      Ave probes for unsuccess. find: 0.390174837506928
+      Ave probes for all finds: 0.38887
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.5
+      Found: 2020  Not Found: 197980
+      Fraction of successful finds: 0.0101
+      Ave probes for successful find: 0.22772277227722773
+      Ave probes for unsuccess. find: 0.4891605212647742
+      Ave probes for all finds: 0.48652
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.6
+      Found: 2369  Not Found: 197631
+      Fraction of successful finds: 0.011845
+      Ave probes for successful find: 0.3224989447024061
+      Ave probes for unsuccess. find: 0.5862946602506692
+      Ave probes for all finds: 0.58317
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.7
+      Found: 2779  Not Found: 197221
+      Fraction of successful finds: 0.013895
+      Ave probes for successful find: 0.34148974451241454
+      Ave probes for unsuccess. find: 0.6794256189756669
+      Ave probes for all finds: 0.67473
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.8
+      Found: 3116  Not Found: 196884
+      Fraction of successful finds: 0.01558
+      Ave probes for successful find: 0.33921694480102693
+      Ave probes for unsuccess. find: 0.7763403831697853
+      Ave probes for all finds: 0.76953
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.9
+      Found: 3523  Not Found: 196477
+      Fraction of successful finds: 0.017615
+      Ave probes for successful find: 0.40249787113255747
+      Ave probes for unsuccess. find: 0.8721733332654713
+      Ave probes for all finds: 0.8639
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.95
+      Found: 3818  Not Found: 196182
+      Fraction of successful finds: 0.01909
+      Ave probes for successful find: 0.4504976427448926
+      Ave probes for unsuccess. find: 0.9247688371002436
+      Ave probes for all finds: 0.915715
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.98
+      Found: 3912  Not Found: 196088
+      Fraction of successful finds: 0.01956
+      Ave probes for successful find: 0.47443762781186094
+      Ave probes for unsuccess. find: 0.9489004936559096
+      Ave probes for all finds: 0.93962
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.3
+      Found: 1215  Not Found: 198785
+      Fraction of successful finds: 0.006075
+      Ave probes for successful find: 0.15720164609053497
+      Ave probes for unsuccess. find: 0.29173227356188847
+      Ave probes for all finds: 0.290915
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.4
+      Found: 1544  Not Found: 198456
+      Fraction of successful finds: 0.00772
+      Ave probes for successful find: 0.19300518134715025
+      Ave probes for unsuccess. find: 0.3902527512395695
+      Ave probes for all finds: 0.38873
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.5
+      Found: 2011  Not Found: 197989
+      Fraction of successful finds: 0.010055
+      Ave probes for successful find: 0.23918448533068126
+      Ave probes for unsuccess. find: 0.48984539545126243
+      Ave probes for all finds: 0.487325
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.6
+      Found: 2412  Not Found: 197588
+      Fraction of successful finds: 0.01206
+      Ave probes for successful find: 0.3018242122719735
+      Ave probes for unsuccess. find: 0.5815636577120068
+      Ave probes for all finds: 0.57819
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.7
+      Found: 2860  Not Found: 197140
+      Fraction of successful finds: 0.0143
+      Ave probes for successful find: 0.3472027972027972
+      Ave probes for unsuccess. find: 0.6820685807040682
+      Ave probes for all finds: 0.67728
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.8
+      Found: 3203  Not Found: 196797
+      Fraction of successful finds: 0.016015
+      Ave probes for successful find: 0.35404308460817985
+      Ave probes for unsuccess. find: 0.7785484534825226
+      Ave probes for all finds: 0.77175
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.9
+      Found: 3579  Not Found: 196421
+      Fraction of successful finds: 0.017895
+      Ave probes for successful find: 0.45375803297010336
+      Ave probes for unsuccess. find: 0.8766985200156806
+      Ave probes for all finds: 0.86913
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.95
+      Found: 3762  Not Found: 196238
+      Fraction of successful finds: 0.01881
+      Ave probes for successful find: 0.4516214779372674
+      Ave probes for unsuccess. find: 0.9227519644513295
+      Ave probes for all finds: 0.91389
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.98
+      Found: 3731  Not Found: 196269
+      Fraction of successful finds: 0.018655
+      Ave probes for successful find: 0.4808362369337979
+      Ave probes for unsuccess. find: 0.9449989555151348
+      Ave probes for all finds: 0.93634
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.3
+      Found: 1152  Not Found: 198848
+      Fraction of successful finds: 0.00576
+      Ave probes for successful find: 0.15104166666666666
+      Ave probes for unsuccess. find: 0.2929222320566463
+      Ave probes for all finds: 0.292105
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.4
+      Found: 1562  Not Found: 198438
+      Fraction of successful finds: 0.00781
+      Ave probes for successful find: 0.1946222791293214
+      Ave probes for unsuccess. find: 0.38878642195547225
+      Ave probes for all finds: 0.38727
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.5
+      Found: 1987  Not Found: 198013
+      Fraction of successful finds: 0.009935
+      Ave probes for successful find: 0.23603422244589833
+      Ave probes for unsuccess. find: 0.4891396019453268
+      Ave probes for all finds: 0.486625
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.6
+      Found: 2479  Not Found: 197521
+      Fraction of successful finds: 0.012395
+      Ave probes for successful find: 0.27309398951189995
+      Ave probes for unsuccess. find: 0.5860592038314913
+      Ave probes for all finds: 0.58218
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.7
+      Found: 2783  Not Found: 197217
+      Fraction of successful finds: 0.013915
+      Ave probes for successful find: 0.34243621990657563
+      Ave probes for unsuccess. find: 0.6778117505083233
+      Ave probes for all finds: 0.673145
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.8
+      Found: 3154  Not Found: 196846
+      Fraction of successful finds: 0.01577
+      Ave probes for successful find: 0.3953709575142676
+      Ave probes for unsuccess. find: 0.7769982626012213
+      Ave probes for all finds: 0.77098
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.9
+      Found: 3522  Not Found: 196478
+      Fraction of successful finds: 0.01761
+      Ave probes for successful find: 0.44236229415105055
+      Ave probes for unsuccess. find: 0.8713850914606216
+      Ave probes for all finds: 0.86383
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.95
+      Found: 3741  Not Found: 196259
+      Fraction of successful finds: 0.018705
+      Ave probes for successful find: 0.4600374231488907
+      Ave probes for unsuccess. find: 0.9204622463173663
+      Ave probes for all finds: 0.91185
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.98
+      Found: 3890  Not Found: 196110
+      Fraction of successful finds: 0.01945
+      Ave probes for successful find: 0.47763496143958867
+      Ave probes for unsuccess. find: 0.9505022691346693
+      Ave probes for all finds: 0.941305
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.3
+      Found: 1172  Not Found: 198828
+      Fraction of successful finds: 0.00586
+      Ave probes for successful find: 0.14590443686006827
+      Ave probes for unsuccess. find: 0.2934496147423904
+      Ave probes for all finds: 0.292585
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.4
+      Found: 1615  Not Found: 198385
+      Fraction of successful finds: 0.008075
+      Ave probes for successful find: 0.2
+      Ave probes for unsuccess. find: 0.3890314287874587
+      Ave probes for all finds: 0.387505
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.5
+      Found: 2051  Not Found: 197949
+      Fraction of successful finds: 0.010255
+      Ave probes for successful find: 0.22476840565577766
+      Ave probes for unsuccess. find: 0.4864838923156975
+      Ave probes for all finds: 0.4838
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.6
+      Found: 2510  Not Found: 197490
+      Fraction of successful finds: 0.01255
+      Ave probes for successful find: 0.30557768924302786
+      Ave probes for unsuccess. find: 0.5821104866069168
+      Ave probes for all finds: 0.57864
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.7
+      Found: 2764  Not Found: 197236
+      Fraction of successful finds: 0.01382
+      Ave probes for successful find: 0.3480463096960926
+      Ave probes for unsuccess. find: 0.6850270741649598
+      Ave probes for all finds: 0.68037
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.8
+      Found: 3245  Not Found: 196755
+      Fraction of successful finds: 0.016225
+      Ave probes for successful find: 0.36456086286594763
+      Ave probes for unsuccess. find: 0.7786892328022159
+      Ave probes for all finds: 0.77197
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.9
+      Found: 3478  Not Found: 196522
+      Fraction of successful finds: 0.01739
+      Ave probes for successful find: 0.42955721679125936
+      Ave probes for unsuccess. find: 0.8743448570643491
+      Ave probes for all finds: 0.86661
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.95
+      Found: 3718  Not Found: 196282
+      Fraction of successful finds: 0.01859
+      Ave probes for successful find: 0.4591178052716514
+      Ave probes for unsuccess. find: 0.9243282623979784
+      Ave probes for all finds: 0.91568
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.98
+      Found: 3838  Not Found: 196162
+      Fraction of successful finds: 0.01919
+      Ave probes for successful find: 0.46638874413757164
+      Ave probes for unsuccess. find: 0.9526207930180157
+      Ave probes for all finds: 0.94329
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.3
+      Found: 1169  Not Found: 198831
+      Fraction of successful finds: 0.005845
+      Ave probes for successful find: 0.15825491873396064
+      Ave probes for unsuccess. find: 0.2943806549280545
+      Ave probes for all finds: 0.293585
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.4
+      Found: 1646  Not Found: 198354
+      Fraction of successful finds: 0.00823
+      Ave probes for successful find: 0.1798298906439854
+      Ave probes for unsuccess. find: 0.39214233138731763
+      Ave probes for all finds: 0.390395
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.5
+      Found: 1963  Not Found: 198037
+      Fraction of successful finds: 0.009815
+      Ave probes for successful find: 0.22924095771777891
+      Ave probes for unsuccess. find: 0.4885450698606826
+      Ave probes for all finds: 0.486
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.6
+      Found: 2300  Not Found: 197700
+      Fraction of successful finds: 0.0115
+      Ave probes for successful find: 0.2856521739130435
+      Ave probes for unsuccess. find: 0.5843753161355589
+      Ave probes for all finds: 0.58094
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.7
+      Found: 2765  Not Found: 197235
+      Fraction of successful finds: 0.013825
+      Ave probes for successful find: 0.34177215189873417
+      Ave probes for unsuccess. find: 0.6813344487540244
+      Ave probes for all finds: 0.67664
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.8
+      Found: 3138  Not Found: 196862
+      Fraction of successful finds: 0.01569
+      Ave probes for successful find: 0.3741236456341619
+      Ave probes for unsuccess. find: 0.7759598094096372
+      Ave probes for all finds: 0.769655
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.9
+      Found: 3503  Not Found: 196497
+      Fraction of successful finds: 0.017515
+      Ave probes for successful find: 0.45589494718812446
+      Ave probes for unsuccess. find: 0.871896263047273
+      Ave probes for all finds: 0.86461
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.95
+      Found: 3840  Not Found: 196160
+      Fraction of successful finds: 0.0192
+      Ave probes for successful find: 0.4674479166666667
+      Ave probes for unsuccess. find: 0.9204832789559543
+      Ave probes for all finds: 0.911785
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.98
+      Found: 3829  Not Found: 196171
+      Fraction of successful finds: 0.019145
+      Ave probes for successful find: 0.4674849830242883
+      Ave probes for unsuccess. find: 0.9537699252183044
+      Ave probes for all finds: 0.94446
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.3
+      Found: 1211  Not Found: 198789
+      Fraction of successful finds: 0.006055
+      Ave probes for successful find: 0.17671345995045418
+      Ave probes for unsuccess. find: 0.4113557591214806
+      Ave probes for all finds: 0.409935
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.4
+      Found: 1530  Not Found: 198470
+      Fraction of successful finds: 0.00765
+      Ave probes for successful find: 0.29215686274509806
+      Ave probes for unsuccess. find: 0.6662870962865924
+      Ave probes for all finds: 0.663425
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.5
+      Found: 2020  Not Found: 197980
+      Fraction of successful finds: 0.0101
+      Ave probes for successful find: 0.3415841584158416
+      Ave probes for unsuccess. find: 1.0108899888877665
+      Ave probes for all finds: 1.00413
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.6
+      Found: 2369  Not Found: 197631
+      Fraction of successful finds: 0.011845
+      Ave probes for successful find: 0.5407344871253693
+      Ave probes for unsuccess. find: 1.5336561571818186
+      Ave probes for all finds: 1.521895
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.7
+      Found: 2779  Not Found: 197221
+      Fraction of successful finds: 0.013895
+      Ave probes for successful find: 0.8312342569269522
+      Ave probes for unsuccess. find: 2.3894412866783963
+      Ave probes for all finds: 2.36779
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.8
+      Found: 3116  Not Found: 196884
+      Fraction of successful finds: 0.01558
+      Ave probes for successful find: 0.9733632862644416
+      Ave probes for unsuccess. find: 3.879009975416997
+      Ave probes for all finds: 3.83374
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.9
+      Found: 3523  Not Found: 196477
+      Fraction of successful finds: 0.017615
+      Ave probes for successful find: 1.5245529378370706
+      Ave probes for unsuccess. find: 8.184449070374649
+      Ave probes for all finds: 8.067135
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.95
+      Found: 3818  Not Found: 196182
+      Fraction of successful finds: 0.01909
+      Ave probes for successful find: 2.143268727082242
+      Ave probes for unsuccess. find: 17.33874667400679
+      Ave probes for all finds: 17.048665
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.98
+      Found: 3912  Not Found: 196088
+      Fraction of successful finds: 0.01956
+      Ave probes for successful find: 2.5357873210633946
+      Ave probes for unsuccess. find: 34.74035637060911
+      Ave probes for all finds: 34.110435
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.3
+      Found: 1215  Not Found: 198785
+      Fraction of successful finds: 0.006075
+      Ave probes for successful find: 0.2189300411522634
+      Ave probes for unsuccess. find: 0.43707523203461024
+      Ave probes for all finds: 0.43575
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.4
+      Found: 1544  Not Found: 198456
+      Fraction of successful finds: 0.00772
+      Ave probes for successful find: 0.25906735751295334
+      Ave probes for unsuccess. find: 0.6765681057765953
+      Ave probes for all finds: 0.673345
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.5
+      Found: 2011  Not Found: 197989
+      Fraction of successful finds: 0.010055
+      Ave probes for successful find: 0.373446046742914
+      Ave probes for unsuccess. find: 1.0286480562051428
+      Ave probes for all finds: 1.02206
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.6
+      Found: 2412  Not Found: 197588
+      Fraction of successful finds: 0.01206
+      Ave probes for successful find: 0.5240464344941956
+      Ave probes for unsuccess. find: 1.517845213272061
+      Ave probes for all finds: 1.50586
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.7
+      Found: 2860  Not Found: 197140
+      Fraction of successful finds: 0.0143
+      Ave probes for successful find: 0.7506993006993007
+      Ave probes for unsuccess. find: 2.4327280105508775
+      Ave probes for all finds: 2.408675
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.8
+      Found: 3203  Not Found: 196797
+      Fraction of successful finds: 0.016015
+      Ave probes for successful find: 1.09178894786138
+      Ave probes for unsuccess. find: 4.001839458934842
+      Ave probes for all finds: 3.955235
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.9
+      Found: 3579  Not Found: 196421
+      Fraction of successful finds: 0.017895
+      Ave probes for successful find: 1.6334171556300643
+      Ave probes for unsuccess. find: 8.57500470927243
+      Ave probes for all finds: 8.450785
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.95
+      Found: 3762  Not Found: 196238
+      Fraction of successful finds: 0.01881
+      Ave probes for successful find: 2.149654439128123
+      Ave probes for unsuccess. find: 16.457857295732733
+      Ave probes for all finds: 16.18872
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.98
+      Found: 3731  Not Found: 196269
+      Fraction of successful finds: 0.018655
+      Ave probes for successful find: 2.6512999195926024
+      Ave probes for unsuccess. find: 30.212483886910313
+      Ave probes for all finds: 29.69833
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.3
+      Found: 1152  Not Found: 198848
+      Fraction of successful finds: 0.00576
+      Ave probes for successful find: 0.2456597222222222
+      Ave probes for unsuccess. find: 0.42986099935629224
+      Ave probes for all finds: 0.4288
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.4
+      Found: 1562  Not Found: 198438
+      Fraction of successful finds: 0.00781
+      Ave probes for successful find: 0.2733674775928297
+      Ave probes for unsuccess. find: 0.6814168657212832
+      Ave probes for all finds: 0.67823
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.5
+      Found: 1987  Not Found: 198013
+      Fraction of successful finds: 0.009935
+      Ave probes for successful find: 0.42325113236034223
+      Ave probes for unsuccess. find: 1.037335932489281
+      Ave probes for all finds: 1.031235
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.6
+      Found: 2479  Not Found: 197521
+      Fraction of successful finds: 0.012395
+      Ave probes for successful find: 0.5147236789027834
+      Ave probes for unsuccess. find: 1.5521185089180392
+      Ave probes for all finds: 1.53926
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.7
+      Found: 2783  Not Found: 197217
+      Fraction of successful finds: 0.013915
+      Ave probes for successful find: 0.7326625943226733
+      Ave probes for unsuccess. find: 2.403682238346593
+      Ave probes for all finds: 2.38043
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.8
+      Found: 3154  Not Found: 196846
+      Fraction of successful finds: 0.01577
+      Ave probes for successful find: 1.1014584654407102
+      Ave probes for unsuccess. find: 4.034717494894486
+      Ave probes for all finds: 3.98846
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.9
+      Found: 3522  Not Found: 196478
+      Fraction of successful finds: 0.01761
+      Ave probes for successful find: 1.463657013060761
+      Ave probes for unsuccess. find: 8.481799489001313
+      Ave probes for all finds: 8.35821
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.95
+      Found: 3741  Not Found: 196259
+      Fraction of successful finds: 0.018705
+      Ave probes for successful find: 2.103448275862069
+      Ave probes for unsuccess. find: 16.66600257822571
+      Ave probes for all finds: 16.39361
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.98
+      Found: 3890  Not Found: 196110
+      Fraction of successful finds: 0.01945
+      Ave probes for successful find: 2.6298200514138816
+      Ave probes for unsuccess. find: 30.818484523991636
+      Ave probes for all finds: 30.270215
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.3
+      Found: 1172  Not Found: 198828
+      Fraction of successful finds: 0.00586
+      Ave probes for successful find: 0.1885665529010239
+      Ave probes for unsuccess. find: 0.435668014565353
+      Ave probes for all finds: 0.43422
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.4
+      Found: 1615  Not Found: 198385
+      Fraction of successful finds: 0.008075
+      Ave probes for successful find: 0.27987616099071205
+      Ave probes for unsuccess. find: 0.6942813216725054
+      Ave probes for all finds: 0.690935
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.5
+      Found: 2051  Not Found: 197949
+      Fraction of successful finds: 0.010255
+      Ave probes for successful find: 0.4022428083861531
+      Ave probes for unsuccess. find: 1.0625817761140495
+      Ave probes for all finds: 1.05581
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.6
+      Found: 2510  Not Found: 197490
+      Fraction of successful finds: 0.01255
+      Ave probes for successful find: 0.5330677290836653
+      Ave probes for unsuccess. find: 1.6038685503063446
+      Ave probes for all finds: 1.59043
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.7
+      Found: 2764  Not Found: 197236
+      Fraction of successful finds: 0.01382
+      Ave probes for successful find: 0.7395079594790159
+      Ave probes for unsuccess. find: 2.487882536656594
+      Ave probes for all finds: 2.46372
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.8
+      Found: 3245  Not Found: 196755
+      Fraction of successful finds: 0.016225
+      Ave probes for successful find: 1.0271186440677966
+      Ave probes for unsuccess. find: 4.208375898960636
+      Ave probes for all finds: 4.15676
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.9
+      Found: 3478  Not Found: 196522
+      Fraction of successful finds: 0.01739
+      Ave probes for successful find: 1.7423806785508913
+      Ave probes for unsuccess. find: 8.955419749442811
+      Ave probes for all finds: 8.829985
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.95
+      Found: 3718  Not Found: 196282
+      Fraction of successful finds: 0.01859
+      Ave probes for successful find: 2.1737493275954813
+      Ave probes for unsuccess. find: 16.768195759162836
+      Ave probes for all finds: 16.496885
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.98
+      Found: 3838  Not Found: 196162
+      Fraction of successful finds: 0.01919
+      Ave probes for successful find: 2.8220427305888482
+      Ave probes for unsuccess. find: 34.24435925408591
+      Ave probes for all finds: 33.641365
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.3
+      Found: 1169  Not Found: 198831
+      Fraction of successful finds: 0.005845
+      Ave probes for successful find: 0.17621899059024806
+      Ave probes for unsuccess. find: 0.43911663674175555
+      Ave probes for all finds: 0.43758
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.4
+      Found: 1646  Not Found: 198354
+      Fraction of successful finds: 0.00823
+      Ave probes for successful find: 0.28128797083839613
+      Ave probes for unsuccess. find: 0.6949393508575576
+      Ave probes for all finds: 0.691535
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.5
+      Found: 1963  Not Found: 198037
+      Fraction of successful finds: 0.009815
+      Ave probes for successful find: 0.4095771777890983
+      Ave probes for unsuccess. find: 1.057115589511051
+      Ave probes for all finds: 1.05076
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.6
+      Found: 2300  Not Found: 197700
+      Fraction of successful finds: 0.0115
+      Ave probes for successful find: 0.5665217391304348
+      Ave probes for unsuccess. find: 1.5956398583712696
+      Ave probes for all finds: 1.583805
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.7
+      Found: 2765  Not Found: 197235
+      Fraction of successful finds: 0.013825
+      Ave probes for successful find: 0.7370705244122966
+      Ave probes for unsuccess. find: 2.4600299135548966
+      Ave probes for all finds: 2.43621
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.8
+      Found: 3138  Not Found: 196862
+      Fraction of successful finds: 0.01569
+      Ave probes for successful find: 1.1163161249203315
+      Ave probes for unsuccess. find: 4.156835752964005
+      Ave probes for all finds: 4.10913
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.9
+      Found: 3503  Not Found: 196497
+      Fraction of successful finds: 0.017515
+      Ave probes for successful find: 1.6514416214673138
+      Ave probes for unsuccess. find: 8.64821345872965
+      Ave probes for all finds: 8.525665
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.95
+      Found: 3840  Not Found: 196160
+      Fraction of successful finds: 0.0192
+      Ave probes for successful find: 2.273697916666667
+      Ave probes for unsuccess. find: 16.736082789559543
+      Ave probes for all finds: 16.458405
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.98
+      Found: 3829  Not Found: 196171
+      Fraction of successful finds: 0.019145
+      Ave probes for successful find: 2.890310786106033
+      Ave probes for unsuccess. find: 33.216596744676835
+      Ave probes for all finds: 32.636
+

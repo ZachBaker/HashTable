@@ -1,0 +1,439 @@
+Resizing from M = 11 and N = 9
+	New Values are M = 23 and D = 19
+Resizing from M = 23 and N = 18
+	New Values are M = 47 and D = 43
+Resizing from M = 47 and N = 36
+	New Values are M = 97 and D = 89
+Resizing from M = 97 and N = 73
+	New Values are M = 197 and D = 193
+Resizing from M = 197 and N = 148
+	New Values are M = 397 and D = 389
+Searching for keys:
+	-1081997537 was found
+	1916789984 was found
+	-611789181 was found
+	-1729668391 was found
+	-1242920884 was found
+	1789931566 was found
+	579604370 was found
+	-1625103851 was found
+	-483973085 was found
+	1303006355 was found
+	-817975289 was found
+	1547952814 was found
+	-478008774 was found
+	959739641 was found
+	-1824137027 was found
+	-543160858 was found
+	-477536458 was found
+	1890522517 was found
+	-1128917842 was found
+	-1057174801 was found
+	-296934856 was found
+	-2075338165 was found
+	1599047042 was found
+	934119925 was found
+	-74630761 was found
+	-369088688 was found
+	-1188207256 was found
+	660611938 was found
+	-754544944 was found
+	-976774640 was found
+	39180841 was found
+	-1435574435 was found
+	97513914 was found
+	2038292562 was found
+	384177530 was found
+	1777484178 was found
+	-1562158339 was found
+	-1343276134 was found
+	1534533265 was found
+	-1774856904 was found
+	2077516228 was found
+	641291982 was found
+	-1072881414 was found
+	-1428212401 was found
+	1368119473 was found
+	-1885318628 was found
+	-659794774 was found
+	-112798422 was found
+	-773077487 was found
+	-850515686 was found
+	-255077548 was found
+	-1653191380 was found
+	499002193 was found
+	-216017106 was found
+	-1450184965 was found
+	1865953238 was found
+	2105823151 was found
+	1995824687 was found
+	-818225720 was found
+	1558293248 was found
+	-756841932 was found
+	-1758194868 was found
+	1776013084 was found
+	-1723958938 was found
+	1053263584 was found
+	-914958804 was found
+	-1120813591 was found
+	361490534 was found
+	-517856473 was found
+	-1975380393 was found
+	-1523018691 was found
+	-604506617 was found
+	-1179484772 was found
+	-2083468588 was found
+	86799391 was found
+	1122356029 was found
+	-1330232085 was found
+	-344866798 was found
+	1865955742 was found
+	1569265258 was found
+	101831181 was found
+	-2075598837 was found
+	-1329493466 was found
+	125700648 was found
+	-1533298250 was found
+	-1441113946 was found
+	194381077 was found
+	-149158843 was found
+	-1593081584 was found
+	-2127084452 was found
+	-329094771 was found
+	832381198 was found
+	-137205330 was found
+	804895006 was found
+	1276495243 was found
+	1561673424 was found
+	371230907 was found
+	1152934262 was found
+	1499464248 was found
+	-757647973 was found
+	-3695247 was found
+	-285735956 was found
+	-627285633 was found
+	428820297 was found
+	-925869359 was found
+	-299656022 was found
+	342737119 was found
+	-314176578 was found
+	1705908368 was found
+	1635380578 was found
+	526103937 was found
+	351231344 was found
+	-2092425392 was found
+	1986635631 was found
+	68998540 was found
+	-1654846935 was found
+	-1748040689 was found
+	713266234 was found
+	-735329608 was found
+	1353010187 was found
+	-775436572 was found
+	1992056799 was found
+	940165665 was found
+	1401507540 was found
+	186493159 was found
+	-1456608753 was found
+	-1620365987 was found
+	677922147 was found
+	-1113133711 was found
+	-81641161 was found
+	-1095341872 was found
+	621794171 was found
+	-459801979 was found
+	-2127516702 was found
+	1107364670 was found
+	-427634746 was found
+	774081677 was found
+	-52992933 was found
+	1565127329 was found
+	-136601061 was found
+	1228796232 was found
+	1350757013 was found
+	-44432836 was found
+	-1207975421 was found
+	275021314 was found
+	-90304433 was found
+	28419567 was found
+	1361975673 was found
+	-492194554 was found
+	139731827 was found
+	-679823667 was found
+	365580273 was found
+	1801047633 was found
+	123787967 was found
+	-1663331093 was found
+	-614252133 was found
+	496146312 was found
+	635431078 was found
+	1283558010 was found
+	-2012010776 was found
+	-1352343766 was found
+	-1849141128 was found
+	1342557208 was found
+	1262235724 was found
+	1187307273 was found
+	1440618944 was found
+	-835605918 was found
+	1099733573 was found
+	-453879306 was found
+	430333420 was found
+	2103167181 was found
+	694255004 was found
+	-229089093 was found
+	-476992461 was found
+	727805366 was found
+	1884282859 was found
+	-663752115 was found
+	39374771 was found
+	1499217846 was found
+	688900190 was found
+	137358146 was found
+	-1296563239 was found
+	-1704590277 was found
+	1249729725 was found
+	88602752 was found
+	-1283063035 was found
+	264319828 was found
+	555764393 was found
+	1745584438 was found
+	1775950700 was found
+	-1428785973 was found
+	-857079515 was found
+	-858997744 was found
+	1138011712 was found
+	1810127480 was found
+	1893695064 was found
+	1454859174 was found
+	-523846385 was found
+	-734008364 was found
+	-630475376 was found
+
+Resizing from M = 397 and N = 100
+	New Values are M = 397 and D = 389
+Searching for keys:
+	-1081997537 was not found
+	1916789984 was not found
+	-611789181 was not found
+	-1729668391 was not found
+	-1242920884 was not found
+	1789931566 was not found
+	579604370 was not found
+	-1625103851 was not found
+	-483973085 was not found
+	1303006355 was not found
+	-817975289 was not found
+	1547952814 was not found
+	-478008774 was not found
+	959739641 was not found
+	-1824137027 was not found
+	-543160858 was not found
+	-477536458 was not found
+	1890522517 was not found
+	-1128917842 was not found
+	-1057174801 was not found
+	-296934856 was not found
+	-2075338165 was not found
+	1599047042 was not found
+	934119925 was not found
+	-74630761 was not found
+	-369088688 was not found
+	-1188207256 was not found
+	660611938 was not found
+	-754544944 was not found
+	-976774640 was not found
+	39180841 was not found
+	-1435574435 was not found
+	97513914 was not found
+	2038292562 was not found
+	384177530 was not found
+	1777484178 was not found
+	-1562158339 was not found
+	-1343276134 was not found
+	1534533265 was not found
+	-1774856904 was not found
+	2077516228 was not found
+	641291982 was not found
+	-1072881414 was not found
+	-1428212401 was not found
+	1368119473 was not found
+	-1885318628 was not found
+	-659794774 was not found
+	-112798422 was not found
+	-773077487 was not found
+	-850515686 was not found
+	-255077548 was not found
+	-1653191380 was not found
+	499002193 was not found
+	-216017106 was not found
+	-1450184965 was not found
+	1865953238 was not found
+	2105823151 was not found
+	1995824687 was not found
+	-818225720 was not found
+	1558293248 was not found
+	-756841932 was not found
+	-1758194868 was not found
+	1776013084 was not found
+	-1723958938 was not found
+	1053263584 was not found
+	-914958804 was not found
+	-1120813591 was not found
+	361490534 was not found
+	-517856473 was not found
+	-1975380393 was not found
+	-1523018691 was not found
+	-604506617 was not found
+	-1179484772 was not found
+	-2083468588 was not found
+	86799391 was not found
+	1122356029 was not found
+	-1330232085 was not found
+	-344866798 was not found
+	1865955742 was not found
+	1569265258 was not found
+	101831181 was not found
+	-2075598837 was not found
+	-1329493466 was not found
+	125700648 was not found
+	-1533298250 was not found
+	-1441113946 was not found
+	194381077 was not found
+	-149158843 was not found
+	-1593081584 was not found
+	-2127084452 was not found
+	-329094771 was not found
+	832381198 was not found
+	-137205330 was not found
+	804895006 was not found
+	1276495243 was not found
+	1561673424 was not found
+	371230907 was not found
+	1152934262 was not found
+	1499464248 was not found
+	-757647973 was not found
+	-3695247 was found
+	-285735956 was found
+	-627285633 was found
+	428820297 was found
+	-925869359 was found
+	-299656022 was found
+	342737119 was found
+	-314176578 was found
+	1705908368 was found
+	1635380578 was found
+	526103937 was found
+	351231344 was found
+	-2092425392 was found
+	1986635631 was found
+	68998540 was found
+	-1654846935 was found
+	-1748040689 was found
+	713266234 was found
+	-735329608 was found
+	1353010187 was found
+	-775436572 was found
+	1992056799 was found
+	940165665 was found
+	1401507540 was found
+	186493159 was found
+	-1456608753 was found
+	-1620365987 was found
+	677922147 was found
+	-1113133711 was found
+	-81641161 was found
+	-1095341872 was found
+	621794171 was found
+	-459801979 was found
+	-2127516702 was found
+	1107364670 was found
+	-427634746 was found
+	774081677 was found
+	-52992933 was found
+	1565127329 was found
+	-136601061 was found
+	1228796232 was found
+	1350757013 was found
+	-44432836 was found
+	-1207975421 was found
+	275021314 was found
+	-90304433 was found
+	28419567 was found
+	1361975673 was found
+	-492194554 was found
+	139731827 was found
+	-679823667 was found
+	365580273 was found
+	1801047633 was found
+	123787967 was found
+	-1663331093 was found
+	-614252133 was found
+	496146312 was found
+	635431078 was found
+	1283558010 was found
+	-2012010776 was found
+	-1352343766 was found
+	-1849141128 was found
+	1342557208 was found
+	1262235724 was found
+	1187307273 was found
+	1440618944 was found
+	-835605918 was found
+	1099733573 was found
+	-453879306 was found
+	430333420 was found
+	2103167181 was found
+	694255004 was found
+	-229089093 was found
+	-476992461 was found
+	727805366 was found
+	1884282859 was found
+	-663752115 was found
+	39374771 was found
+	1499217846 was found
+	688900190 was found
+	137358146 was found
+	-1296563239 was found
+	-1704590277 was found
+	1249729725 was found
+	88602752 was found
+	-1283063035 was found
+	264319828 was found
+	555764393 was found
+	1745584438 was found
+	1775950700 was found
+	-1428785973 was found
+	-857079515 was found
+	-858997744 was found
+	1138011712 was found
+	1810127480 was found
+	1893695064 was found
+	1454859174 was found
+	-523846385 was found
+	-734008364 was found
+	-630475376 was found
+
+Resizing from M = 397 and N = 66
+	New Values are M = 397 and D = 389
+Resizing from M = 397 and N = 49
+	New Values are M = 199 and D = 197
+Resizing from M = 199 and N = 24
+	New Values are M = 101 and D = 97
+DHT Contains: 
+	-1997601365
+	-1101474619
+	134020039
+	-955288716
+	572796890
+	-1128843765
+	899147594
+	99230726
+	-1599593033
+	793838754
+	-269655822
+	585479201
+	39345740
+	1467064874
+	-2139558901
+	1531726294

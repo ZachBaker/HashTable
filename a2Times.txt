@@ -1,0 +1,1080 @@
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.3
+      Found: 1211  Not Found: 198789
+      Fraction of successful finds: 0.006055
+      Ave time for successful find: 190.93559042113955
+      Ave time for unsuccess. find: 146.07676481093017
+      Ave time for all finds: 146.348385
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.4
+      Found: 1530  Not Found: 198470
+      Fraction of successful finds: 0.00765
+      Ave time for successful find: 219.39281045751633
+      Ave time for unsuccess. find: 173.53611125107068
+      Ave time for all finds: 173.886915
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.5
+      Found: 2020  Not Found: 197980
+      Fraction of successful finds: 0.0101
+      Ave time for successful find: 83.67920792079208
+      Ave time for unsuccess. find: 81.91635013637742
+      Ave time for all finds: 81.934155
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.6
+      Found: 2369  Not Found: 197631
+      Fraction of successful finds: 0.011845
+      Ave time for successful find: 62.947657239341495
+      Ave time for unsuccess. find: 70.29978596475249
+      Ave time for all finds: 70.2127
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.7
+      Found: 2779  Not Found: 197221
+      Fraction of successful finds: 0.013895
+      Ave time for successful find: 61.91651673263764
+      Ave time for unsuccess. find: 83.29335618417917
+      Ave time for all finds: 82.996325
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.8
+      Found: 3116  Not Found: 196884
+      Fraction of successful finds: 0.01558
+      Ave time for successful find: 72.84884467265725
+      Ave time for unsuccess. find: 148.9277493346336
+      Ave time for all finds: 147.74244
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.9
+      Found: 3523  Not Found: 196477
+      Fraction of successful finds: 0.017615
+      Ave time for successful find: 80.88759579903491
+      Ave time for unsuccess. find: 239.37486321554178
+      Ave time for all finds: 236.58311
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.95
+      Found: 3818  Not Found: 196182
+      Fraction of successful finds: 0.01909
+      Ave time for successful find: 123.01859612362493
+      Ave time for unsuccess. find: 1019.0289170260269
+      Ave time for all finds: 1001.92408
+
+-----------Linear Probing Results--------------
+Table size: 1009    Alpha: 0.98
+      Found: 3912  Not Found: 196088
+      Fraction of successful finds: 0.01956
+      Ave time for successful find: 132.25869120654397
+      Ave time for unsuccess. find: 1036.804995716209
+      Ave time for all finds: 1019.11207
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.3
+      Found: 1215  Not Found: 198785
+      Fraction of successful finds: 0.006075
+      Ave time for successful find: 70.06337448559671
+      Ave time for unsuccess. find: 32.5387277712101
+      Ave time for all finds: 32.76669
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.4
+      Found: 1544  Not Found: 198456
+      Fraction of successful finds: 0.00772
+      Ave time for successful find: 59.82253886010363
+      Ave time for unsuccess. find: 40.745570806627164
+      Ave time for all finds: 40.892845
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.5
+      Found: 2011  Not Found: 197989
+      Fraction of successful finds: 0.010055
+      Ave time for successful find: 61.83888612630532
+      Ave time for unsuccess. find: 51.32504836127259
+      Ave time for all finds: 51.430765
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.6
+      Found: 2412  Not Found: 197588
+      Fraction of successful finds: 0.01206
+      Ave time for successful find: 60.32255389718076
+      Ave time for unsuccess. find: 66.97867785493047
+      Ave time for all finds: 66.898405
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.7
+      Found: 2860  Not Found: 197140
+      Fraction of successful finds: 0.0143
+      Ave time for successful find: 60.795804195804195
+      Ave time for unsuccess. find: 91.85997768083595
+      Ave time for all finds: 91.41576
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.8
+      Found: 3203  Not Found: 196797
+      Fraction of successful finds: 0.016015
+      Ave time for successful find: 70.8701217608492
+      Ave time for unsuccess. find: 151.19638002611828
+      Ave time for all finds: 149.909955
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.9
+      Found: 3579  Not Found: 196421
+      Fraction of successful finds: 0.017895
+      Ave time for successful find: 95.30734842134675
+      Ave time for unsuccess. find: 461.8128764236003
+      Ave time for all finds: 455.25426
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.95
+      Found: 3762  Not Found: 196238
+      Fraction of successful finds: 0.01881
+      Ave time for successful find: 93.24003189792664
+      Ave time for unsuccess. find: 542.3151530284655
+      Ave time for all finds: 533.86805
+
+-----------Linear Probing Results--------------
+Table size: 2003    Alpha: 0.98
+      Found: 3731  Not Found: 196269
+      Fraction of successful finds: 0.018655
+      Ave time for successful find: 134.1458054140981
+      Ave time for unsuccess. find: 1592.4674349999236
+      Ave time for all finds: 1565.262445
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.3
+      Found: 1152  Not Found: 198848
+      Fraction of successful finds: 0.00576
+      Ave time for successful find: 63.93836805555556
+      Ave time for unsuccess. find: 32.34963892018024
+      Ave time for all finds: 32.53159
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.4
+      Found: 1562  Not Found: 198438
+      Fraction of successful finds: 0.00781
+      Ave time for successful find: 73.43661971830986
+      Ave time for unsuccess. find: 41.10274241828682
+      Ave time for all finds: 41.35527
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.5
+      Found: 1987  Not Found: 198013
+      Fraction of successful finds: 0.009935
+      Ave time for successful find: 66.23502767991948
+      Ave time for unsuccess. find: 53.55366566841571
+      Ave time for all finds: 53.679655
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.6
+      Found: 2479  Not Found: 197521
+      Fraction of successful finds: 0.012395
+      Ave time for successful find: 67.45945945945945
+      Ave time for unsuccess. find: 72.61900759919199
+      Ave time for all finds: 72.555055
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.7
+      Found: 2783  Not Found: 197217
+      Fraction of successful finds: 0.013915
+      Ave time for successful find: 65.0801293568092
+      Ave time for unsuccess. find: 95.64735291582369
+      Ave time for all finds: 95.22201
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.8
+      Found: 3154  Not Found: 196846
+      Fraction of successful finds: 0.01577
+      Ave time for successful find: 66.99809765377299
+      Ave time for unsuccess. find: 149.7910447761194
+      Ave time for all finds: 148.4854
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.9
+      Found: 3522  Not Found: 196478
+      Fraction of successful finds: 0.01761
+      Ave time for successful find: 89.64764338444066
+      Ave time for unsuccess. find: 398.79885788739705
+      Ave time for all finds: 393.354705
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.95
+      Found: 3741  Not Found: 196259
+      Fraction of successful finds: 0.018705
+      Ave time for successful find: 100.70275327452553
+      Ave time for unsuccess. find: 897.6377541921644
+      Ave time for all finds: 882.731085
+
+-----------Linear Probing Results--------------
+Table size: 4001    Alpha: 0.98
+      Found: 3890  Not Found: 196110
+      Fraction of successful finds: 0.01945
+      Ave time for successful find: 141.23161953727507
+      Ave time for unsuccess. find: 2224.136591708735
+      Ave time for all finds: 2183.62409
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.3
+      Found: 1172  Not Found: 198828
+      Fraction of successful finds: 0.00586
+      Ave time for successful find: 61.29778156996587
+      Ave time for unsuccess. find: 33.12134608807612
+      Ave time for all finds: 33.28646
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.4
+      Found: 1615  Not Found: 198385
+      Fraction of successful finds: 0.008075
+      Ave time for successful find: 65.80061919504644
+      Ave time for unsuccess. find: 41.64305265014996
+      Ave time for all finds: 41.838125
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.5
+      Found: 2051  Not Found: 197949
+      Fraction of successful finds: 0.010255
+      Ave time for successful find: 63.28961482203803
+      Ave time for unsuccess. find: 59.05496870406014
+      Ave time for all finds: 59.098395
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.6
+      Found: 2510  Not Found: 197490
+      Fraction of successful finds: 0.01255
+      Ave time for successful find: 66.38366533864541
+      Ave time for unsuccess. find: 66.71237531014229
+      Ave time for all finds: 66.70825
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.7
+      Found: 2764  Not Found: 197236
+      Fraction of successful finds: 0.01382
+      Ave time for successful find: 66.18451519536903
+      Ave time for unsuccess. find: 98.79370398912977
+      Ave time for all finds: 98.343045
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.8
+      Found: 3245  Not Found: 196755
+      Fraction of successful finds: 0.016225
+      Ave time for successful find: 66.23020030816642
+      Ave time for unsuccess. find: 145.55804935071535
+      Ave time for all finds: 144.270955
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.9
+      Found: 3478  Not Found: 196522
+      Fraction of successful finds: 0.01739
+      Ave time for successful find: 93.73317998849913
+      Ave time for unsuccess. find: 364.66794048503476
+      Ave time for all finds: 359.956385
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.95
+      Found: 3718  Not Found: 196282
+      Fraction of successful finds: 0.01859
+      Ave time for successful find: 109.60919849381388
+      Ave time for unsuccess. find: 716.888716234805
+      Ave time for all finds: 705.59939
+
+-----------Linear Probing Results--------------
+Table size: 8009    Alpha: 0.98
+      Found: 3838  Not Found: 196162
+      Fraction of successful finds: 0.01919
+      Ave time for successful find: 201.66649296508598
+      Ave time for unsuccess. find: 3743.634562249569
+      Ave time for all finds: 3675.664195
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.3
+      Found: 1169  Not Found: 198831
+      Fraction of successful finds: 0.005845
+      Ave time for successful find: 61.97005988023952
+      Ave time for unsuccess. find: 38.665077377270144
+      Ave time for all finds: 38.801295
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.4
+      Found: 1646  Not Found: 198354
+      Fraction of successful finds: 0.00823
+      Ave time for successful find: 74.455042527339
+      Ave time for unsuccess. find: 42.28248989180959
+      Ave time for all finds: 42.54727
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.5
+      Found: 1963  Not Found: 198037
+      Fraction of successful finds: 0.009815
+      Ave time for successful find: 78.42180336220072
+      Ave time for unsuccess. find: 54.989507011316064
+      Ave time for all finds: 55.219495
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.6
+      Found: 2300  Not Found: 197700
+      Fraction of successful finds: 0.0115
+      Ave time for successful find: 67.98521739130435
+      Ave time for unsuccess. find: 68.62032372281234
+      Ave time for all finds: 68.61302
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.7
+      Found: 2765  Not Found: 197235
+      Fraction of successful finds: 0.013825
+      Ave time for successful find: 70.52658227848102
+      Ave time for unsuccess. find: 89.57464952974878
+      Ave time for all finds: 89.31131
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.8
+      Found: 3138  Not Found: 196862
+      Fraction of successful finds: 0.01569
+      Ave time for successful find: 72.91268323773104
+      Ave time for unsuccess. find: 145.26445428777518
+      Ave time for all finds: 144.129255
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.9
+      Found: 3503  Not Found: 196497
+      Fraction of successful finds: 0.017515
+      Ave time for successful find: 113.2306594347702
+      Ave time for unsuccess. find: 421.66796948553923
+      Ave time for all finds: 416.26569
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.95
+      Found: 3840  Not Found: 196160
+      Fraction of successful finds: 0.0192
+      Ave time for successful find: 134.89583333333334
+      Ave time for unsuccess. find: 990.2866435562806
+      Ave time for all finds: 973.86314
+
+-----------Linear Probing Results--------------
+Table size: 16001    Alpha: 0.98
+      Found: 3829  Not Found: 196171
+      Fraction of successful finds: 0.019145
+      Ave time for successful find: 220.26612692609035
+      Ave time for unsuccess. find: 3102.278787384476
+      Ave time for all finds: 3047.102655
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.3
+      Found: 1211  Not Found: 198789
+      Fraction of successful finds: 0.006055
+      Ave time for successful find: 241.30057803468208
+      Ave time for unsuccess. find: 190.06817781668
+      Ave time for all finds: 190.37839
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.4
+      Found: 1530  Not Found: 198470
+      Fraction of successful finds: 0.00765
+      Ave time for successful find: 224.12549019607843
+      Ave time for unsuccess. find: 172.787993147579
+      Ave time for all finds: 173.180725
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.5
+      Found: 2020  Not Found: 197980
+      Fraction of successful finds: 0.0101
+      Ave time for successful find: 75.30990099009901
+      Ave time for unsuccess. find: 45.20436912819477
+      Ave time for all finds: 45.508435
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.6
+      Found: 2369  Not Found: 197631
+      Fraction of successful finds: 0.011845
+      Ave time for successful find: 73.39257070493879
+      Ave time for unsuccess. find: 38.026099144365006
+      Ave time for all finds: 38.445015
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.7
+      Found: 2779  Not Found: 197221
+      Fraction of successful finds: 0.013895
+      Ave time for successful find: 67.5649514213746
+      Ave time for unsuccess. find: 45.85293148295567
+      Ave time for all finds: 46.15462
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.8
+      Found: 3116  Not Found: 196884
+      Fraction of successful finds: 0.01558
+      Ave time for successful find: 75.36713735558408
+      Ave time for unsuccess. find: 40.96367404156762
+      Ave time for all finds: 41.49968
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.9
+      Found: 3523  Not Found: 196477
+      Fraction of successful finds: 0.017615
+      Ave time for successful find: 70.08998013057054
+      Ave time for unsuccess. find: 42.99034492586919
+      Ave time for all finds: 43.467705
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.95
+      Found: 3818  Not Found: 196182
+      Fraction of successful finds: 0.01909
+      Ave time for successful find: 75.26715557883709
+      Ave time for unsuccess. find: 46.754376038576424
+      Ave time for all finds: 47.298685
+
+----------Separate Chaining Results------------
+Table size: 1009    Alpha: 0.98
+      Found: 3912  Not Found: 196088
+      Fraction of successful finds: 0.01956
+      Ave time for successful find: 67.75511247443762
+      Ave time for unsuccess. find: 43.37778446411815
+      Ave time for all finds: 43.854605
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.3
+      Found: 1215  Not Found: 198785
+      Fraction of successful finds: 0.006075
+      Ave time for successful find: 71.05843621399177
+      Ave time for unsuccess. find: 29.085569836758307
+      Ave time for all finds: 29.340555
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.4
+      Found: 1544  Not Found: 198456
+      Fraction of successful finds: 0.00772
+      Ave time for successful find: 79.37370466321244
+      Ave time for unsuccess. find: 33.47806062804853
+      Ave time for all finds: 33.832375
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.5
+      Found: 2011  Not Found: 197989
+      Fraction of successful finds: 0.010055
+      Ave time for successful find: 72.94380905022376
+      Ave time for unsuccess. find: 38.91161125113011
+      Ave time for all finds: 39.253805
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.6
+      Found: 2412  Not Found: 197588
+      Fraction of successful finds: 0.01206
+      Ave time for successful find: 67.58250414593698
+      Ave time for unsuccess. find: 40.328972407231205
+      Ave time for all finds: 40.65765
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.7
+      Found: 2860  Not Found: 197140
+      Fraction of successful finds: 0.0143
+      Ave time for successful find: 75.35594405594405
+      Ave time for unsuccess. find: 43.210048696357916
+      Ave time for all finds: 43.669735
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.8
+      Found: 3203  Not Found: 196797
+      Fraction of successful finds: 0.016015
+      Ave time for successful find: 64.6537620980331
+      Ave time for unsuccess. find: 43.132247950934214
+      Ave time for all finds: 43.476915
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.9
+      Found: 3579  Not Found: 196421
+      Fraction of successful finds: 0.017895
+      Ave time for successful find: 66.62922604079351
+      Ave time for unsuccess. find: 44.40424903650832
+      Ave time for all finds: 44.801965
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.95
+      Found: 3762  Not Found: 196238
+      Fraction of successful finds: 0.01881
+      Ave time for successful find: 69.96836788942052
+      Ave time for unsuccess. find: 45.38095068233471
+      Ave time for all finds: 45.84344
+
+----------Separate Chaining Results------------
+Table size: 2003    Alpha: 0.98
+      Found: 3731  Not Found: 196269
+      Fraction of successful finds: 0.018655
+      Ave time for successful find: 69.25649959796301
+      Ave time for unsuccess. find: 45.4599096138463
+      Ave time for all finds: 45.903835
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.3
+      Found: 1152  Not Found: 198848
+      Fraction of successful finds: 0.00576
+      Ave time for successful find: 66.55555555555556
+      Ave time for unsuccess. find: 34.61116531219826
+      Ave time for all finds: 34.795165
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.4
+      Found: 1562  Not Found: 198438
+      Fraction of successful finds: 0.00781
+      Ave time for successful find: 77.69654289372599
+      Ave time for unsuccess. find: 32.43192836049547
+      Ave time for all finds: 32.785445
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.5
+      Found: 1987  Not Found: 198013
+      Fraction of successful finds: 0.009935
+      Ave time for successful find: 63.506794162053346
+      Ave time for unsuccess. find: 37.373177518647765
+      Ave time for all finds: 37.632815
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.6
+      Found: 2479  Not Found: 197521
+      Fraction of successful finds: 0.012395
+      Ave time for successful find: 72.33077853973376
+      Ave time for unsuccess. find: 40.146997028164094
+      Ave time for all finds: 40.545915
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.7
+      Found: 2783  Not Found: 197217
+      Fraction of successful finds: 0.013915
+      Ave time for successful find: 72.02155946819978
+      Ave time for unsuccess. find: 42.74944857694823
+      Ave time for all finds: 43.15677
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.8
+      Found: 3154  Not Found: 196846
+      Fraction of successful finds: 0.01577
+      Ave time for successful find: 76.94134432466709
+      Ave time for unsuccess. find: 46.3542210662142
+      Ave time for all finds: 46.83658
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.9
+      Found: 3522  Not Found: 196478
+      Fraction of successful finds: 0.01761
+      Ave time for successful find: 79.02072685973879
+      Ave time for unsuccess. find: 52.4698694001364
+      Ave time for all finds: 52.93743
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.95
+      Found: 3741  Not Found: 196259
+      Fraction of successful finds: 0.018705
+      Ave time for successful find: 76.49211440791233
+      Ave time for unsuccess. find: 47.76942713455179
+      Ave time for all finds: 48.306685
+
+----------Separate Chaining Results------------
+Table size: 4001    Alpha: 0.98
+      Found: 3890  Not Found: 196110
+      Fraction of successful finds: 0.01945
+      Ave time for successful find: 74.80102827763496
+      Ave time for unsuccess. find: 49.046677884860536
+      Ave time for all finds: 49.5476
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.3
+      Found: 1172  Not Found: 198828
+      Fraction of successful finds: 0.00586
+      Ave time for successful find: 91.17918088737201
+      Ave time for unsuccess. find: 33.24876777918603
+      Ave time for all finds: 33.58824
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.4
+      Found: 1615  Not Found: 198385
+      Fraction of successful finds: 0.008075
+      Ave time for successful find: 77.00743034055728
+      Ave time for unsuccess. find: 35.76934244020465
+      Ave time for all finds: 36.10234
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.5
+      Found: 2051  Not Found: 197949
+      Fraction of successful finds: 0.010255
+      Ave time for successful find: 87.43003412969283
+      Ave time for unsuccess. find: 39.39227780893059
+      Ave time for all finds: 39.884905
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.6
+      Found: 2510  Not Found: 197490
+      Fraction of successful finds: 0.01255
+      Ave time for successful find: 87.31035856573705
+      Ave time for unsuccess. find: 50.42181376272217
+      Ave time for all finds: 50.884765
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.7
+      Found: 2764  Not Found: 197236
+      Fraction of successful finds: 0.01382
+      Ave time for successful find: 94.13856729377713
+      Ave time for unsuccess. find: 47.02774848404957
+      Ave time for all finds: 47.67882
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.8
+      Found: 3245  Not Found: 196755
+      Fraction of successful finds: 0.016225
+      Ave time for successful find: 84.65701078582434
+      Ave time for unsuccess. find: 49.28745902264237
+      Ave time for all finds: 49.86133
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.9
+      Found: 3478  Not Found: 196522
+      Fraction of successful finds: 0.01739
+      Ave time for successful find: 103.28464634847613
+      Ave time for unsuccess. find: 62.06704084021128
+      Ave time for all finds: 62.783815
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.95
+      Found: 3718  Not Found: 196282
+      Fraction of successful finds: 0.01859
+      Ave time for successful find: 94.33808499193114
+      Ave time for unsuccess. find: 52.349991338991856
+      Ave time for all finds: 53.13055
+
+----------Separate Chaining Results------------
+Table size: 8009    Alpha: 0.98
+      Found: 3838  Not Found: 196162
+      Fraction of successful finds: 0.01919
+      Ave time for successful find: 92.02605523710265
+      Ave time for unsuccess. find: 64.61858565879223
+      Ave time for all finds: 65.144535
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.3
+      Found: 1169  Not Found: 198831
+      Fraction of successful finds: 0.005845
+      Ave time for successful find: 91.41317365269461
+      Ave time for unsuccess. find: 35.24001287525587
+      Ave time for all finds: 35.568345
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.4
+      Found: 1646  Not Found: 198354
+      Fraction of successful finds: 0.00823
+      Ave time for successful find: 99.02855407047387
+      Ave time for unsuccess. find: 37.74443167266604
+      Ave time for all finds: 38.2488
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.5
+      Found: 1963  Not Found: 198037
+      Fraction of successful finds: 0.009815
+      Ave time for successful find: 91.96230259806418
+      Ave time for unsuccess. find: 42.167347515868244
+      Ave time for all finds: 42.656085
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.6
+      Found: 2300  Not Found: 197700
+      Fraction of successful finds: 0.0115
+      Ave time for successful find: 88.19391304347826
+      Ave time for unsuccess. find: 47.23509357612544
+      Ave time for all finds: 47.70612
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.7
+      Found: 2765  Not Found: 197235
+      Fraction of successful finds: 0.013825
+      Ave time for successful find: 120.74285714285715
+      Ave time for unsuccess. find: 69.2933911324055
+      Ave time for all finds: 70.00468
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.8
+      Found: 3138  Not Found: 196862
+      Fraction of successful finds: 0.01569
+      Ave time for successful find: 113.89961759082217
+      Ave time for unsuccess. find: 57.099216710182766
+      Ave time for all finds: 57.990415
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.9
+      Found: 3503  Not Found: 196497
+      Fraction of successful finds: 0.017515
+      Ave time for successful find: 112.36511561518698
+      Ave time for unsuccess. find: 57.48218038952248
+      Ave time for all finds: 58.443455
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.95
+      Found: 3840  Not Found: 196160
+      Fraction of successful finds: 0.0192
+      Ave time for successful find: 99.20104166666667
+      Ave time for unsuccess. find: 56.475764681892336
+      Ave time for all finds: 57.29609
+
+----------Separate Chaining Results------------
+Table size: 16001    Alpha: 0.98
+      Found: 3829  Not Found: 196171
+      Fraction of successful finds: 0.019145
+      Ave time for successful find: 100.27970749542962
+      Ave time for unsuccess. find: 61.69856910552528
+      Ave time for all finds: 62.437205
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.3
+      Found: 1211  Not Found: 198789
+      Fraction of successful finds: 0.006055
+      Ave time for successful find: 288.63666391412056
+      Ave time for unsuccess. find: 225.30273807906877
+      Ave time for all finds: 225.686225
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.4
+      Found: 1530  Not Found: 198470
+      Fraction of successful finds: 0.00765
+      Ave time for successful find: 225.70522875816994
+      Ave time for unsuccess. find: 176.51071698493476
+      Ave time for all finds: 176.887055
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.5
+      Found: 2020  Not Found: 197980
+      Fraction of successful finds: 0.0101
+      Ave time for successful find: 184.40148514851487
+      Ave time for unsuccess. find: 167.15308111930497
+      Ave time for all finds: 167.32729
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.6
+      Found: 2369  Not Found: 197631
+      Fraction of successful finds: 0.011845
+      Ave time for successful find: 57.84845926551287
+      Ave time for unsuccess. find: 57.39936548415987
+      Ave time for all finds: 57.404685
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.7
+      Found: 2779  Not Found: 197221
+      Fraction of successful finds: 0.013895
+      Ave time for successful find: 54.74847067290392
+      Ave time for unsuccess. find: 59.58513038672352
+      Ave time for all finds: 59.517925
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.8
+      Found: 3116  Not Found: 196884
+      Fraction of successful finds: 0.01558
+      Ave time for successful find: 58.31707317073171
+      Ave time for unsuccess. find: 63.34803234391825
+      Ave time for all finds: 63.26965
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.9
+      Found: 3523  Not Found: 196477
+      Fraction of successful finds: 0.017615
+      Ave time for successful find: 57.06045983536758
+      Ave time for unsuccess. find: 81.96199555164218
+      Ave time for all finds: 81.523355
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.95
+      Found: 3818  Not Found: 196182
+      Fraction of successful finds: 0.01909
+      Ave time for successful find: 60.24384494499738
+      Ave time for unsuccess. find: 119.90901305930208
+      Ave time for all finds: 118.770005
+
+-----------Double Hashing Results--------------
+Table size: 1009    Alpha: 0.98
+      Found: 3912  Not Found: 196088
+      Fraction of successful finds: 0.01956
+      Ave time for successful find: 60.33742331288344
+      Ave time for unsuccess. find: 171.15194708498225
+      Ave time for all finds: 168.984415
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.3
+      Found: 1215  Not Found: 198785
+      Fraction of successful finds: 0.006075
+      Ave time for successful find: 83.9753086419753
+      Ave time for unsuccess. find: 35.56397112458183
+      Ave time for all finds: 35.85807
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.4
+      Found: 1544  Not Found: 198456
+      Fraction of successful finds: 0.00772
+      Ave time for successful find: 58.251943005181346
+      Ave time for unsuccess. find: 42.86015036078526
+      Ave time for all finds: 42.978975
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.5
+      Found: 2011  Not Found: 197989
+      Fraction of successful finds: 0.010055
+      Ave time for successful find: 59.14420686225758
+      Ave time for unsuccess. find: 53.35898964083863
+      Ave time for all finds: 53.41716
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.6
+      Found: 2412  Not Found: 197588
+      Fraction of successful finds: 0.01206
+      Ave time for successful find: 54.318407960199
+      Ave time for unsuccess. find: 54.90039880964431
+      Ave time for all finds: 54.89338
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.7
+      Found: 2860  Not Found: 197140
+      Fraction of successful finds: 0.0143
+      Ave time for successful find: 61.8493006993007
+      Ave time for unsuccess. find: 61.33673024246728
+      Ave time for all finds: 61.34406
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.8
+      Found: 3203  Not Found: 196797
+      Fraction of successful finds: 0.016015
+      Ave time for successful find: 57.10896034967218
+      Ave time for unsuccess. find: 65.48405209429005
+      Ave time for all finds: 65.349925
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.9
+      Found: 3579  Not Found: 196421
+      Fraction of successful finds: 0.017895
+      Ave time for successful find: 67.47387538418553
+      Ave time for unsuccess. find: 90.95394077008059
+      Ave time for all finds: 90.533765
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.95
+      Found: 3762  Not Found: 196238
+      Fraction of successful finds: 0.01881
+      Ave time for successful find: 64.67038809144073
+      Ave time for unsuccess. find: 111.19046769738786
+      Ave time for all finds: 110.315425
+
+-----------Double Hashing Results--------------
+Table size: 2003    Alpha: 0.98
+      Found: 3731  Not Found: 196269
+      Fraction of successful finds: 0.018655
+      Ave time for successful find: 67.15223800589655
+      Ave time for unsuccess. find: 164.18391085703806
+      Ave time for all finds: 162.373785
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.3
+      Found: 1152  Not Found: 198848
+      Fraction of successful finds: 0.00576
+      Ave time for successful find: 63.9375
+      Ave time for unsuccess. find: 35.35535685548761
+      Ave time for all finds: 35.51999
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.4
+      Found: 1562  Not Found: 198438
+      Fraction of successful finds: 0.00781
+      Ave time for successful find: 63.39372599231754
+      Ave time for unsuccess. find: 44.69546659409992
+      Ave time for all finds: 44.8415
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.5
+      Found: 1987  Not Found: 198013
+      Fraction of successful finds: 0.009935
+      Ave time for successful find: 62.89682939104177
+      Ave time for unsuccess. find: 51.51718321524344
+      Ave time for all finds: 51.63024
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.6
+      Found: 2479  Not Found: 197521
+      Fraction of successful finds: 0.012395
+      Ave time for successful find: 53.82452601855587
+      Ave time for unsuccess. find: 56.30663068736995
+      Ave time for all finds: 56.275865
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.7
+      Found: 2783  Not Found: 197217
+      Fraction of successful finds: 0.013915
+      Ave time for successful find: 60.08515989938915
+      Ave time for unsuccess. find: 62.035331639767364
+      Ave time for all finds: 62.008195
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.8
+      Found: 3154  Not Found: 196846
+      Fraction of successful finds: 0.01577
+      Ave time for successful find: 70.63062777425492
+      Ave time for unsuccess. find: 73.22719791105737
+      Ave time for all finds: 73.18625
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.9
+      Found: 3522  Not Found: 196478
+      Fraction of successful finds: 0.01761
+      Ave time for successful find: 64.79415105053947
+      Ave time for unsuccess. find: 87.04116491413797
+      Ave time for all finds: 86.649395
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.95
+      Found: 3741  Not Found: 196259
+      Fraction of successful finds: 0.018705
+      Ave time for successful find: 62.9395883453622
+      Ave time for unsuccess. find: 115.35243224514545
+      Ave time for all finds: 114.37205
+
+-----------Double Hashing Results--------------
+Table size: 4001    Alpha: 0.98
+      Found: 3890  Not Found: 196110
+      Fraction of successful finds: 0.01945
+      Ave time for successful find: 68.28946015424164
+      Ave time for unsuccess. find: 174.87314262403754
+      Ave time for all finds: 172.80009
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.3
+      Found: 1172  Not Found: 198828
+      Fraction of successful finds: 0.00586
+      Ave time for successful find: 82.42491467576792
+      Ave time for unsuccess. find: 36.42487979560223
+      Ave time for all finds: 36.69444
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.4
+      Found: 1615  Not Found: 198385
+      Fraction of successful finds: 0.008075
+      Ave time for successful find: 66.53560371517028
+      Ave time for unsuccess. find: 49.46998512992414
+      Ave time for all finds: 49.60779
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.5
+      Found: 2051  Not Found: 197949
+      Fraction of successful finds: 0.010255
+      Ave time for successful find: 66.23354461238421
+      Ave time for unsuccess. find: 52.494455642615016
+      Ave time for all finds: 52.63535
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.6
+      Found: 2510  Not Found: 197490
+      Fraction of successful finds: 0.01255
+      Ave time for successful find: 64.2195219123506
+      Ave time for unsuccess. find: 58.113281685148614
+      Ave time for all finds: 58.189915
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.7
+      Found: 2764  Not Found: 197236
+      Fraction of successful finds: 0.01382
+      Ave time for successful find: 67.05752532561505
+      Ave time for unsuccess. find: 63.88426047983127
+      Ave time for all finds: 63.928115
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.8
+      Found: 3245  Not Found: 196755
+      Fraction of successful finds: 0.016225
+      Ave time for successful find: 65.11587057010786
+      Ave time for unsuccess. find: 71.89858453406521
+      Ave time for all finds: 71.788535
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.9
+      Found: 3478  Not Found: 196522
+      Fraction of successful finds: 0.01739
+      Ave time for successful find: 72.56009200690052
+      Ave time for unsuccess. find: 96.14513896662969
+      Ave time for all finds: 95.734995
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.95
+      Found: 3718  Not Found: 196282
+      Fraction of successful finds: 0.01859
+      Ave time for successful find: 62.84427111350188
+      Ave time for unsuccess. find: 128.5891166790638
+      Ave time for all finds: 127.36692
+
+-----------Double Hashing Results--------------
+Table size: 8009    Alpha: 0.98
+      Found: 3838  Not Found: 196162
+      Fraction of successful finds: 0.01919
+      Ave time for successful find: 67.16623241271496
+      Ave time for unsuccess. find: 212.3960553012306
+      Ave time for all finds: 209.609095
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.3
+      Found: 1169  Not Found: 198831
+      Fraction of successful finds: 0.005845
+      Ave time for successful find: 72.30025662959795
+      Ave time for unsuccess. find: 37.222545780084594
+      Ave time for all finds: 37.427575
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.4
+      Found: 1646  Not Found: 198354
+      Fraction of successful finds: 0.00823
+      Ave time for successful find: 91.32503037667071
+      Ave time for unsuccess. find: 45.50845962269478
+      Ave time for all finds: 45.88553
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.5
+      Found: 1963  Not Found: 198037
+      Fraction of successful finds: 0.009815
+      Ave time for successful find: 77.50229240957718
+      Ave time for unsuccess. find: 60.26316799385973
+      Ave time for all finds: 60.43237
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.6
+      Found: 2300  Not Found: 197700
+      Fraction of successful finds: 0.0115
+      Ave time for successful find: 74.54869565217392
+      Ave time for unsuccess. find: 60.66516944865958
+      Ave time for all finds: 60.82483
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.7
+      Found: 2765  Not Found: 197235
+      Fraction of successful finds: 0.013825
+      Ave time for successful find: 75.98010849909583
+      Ave time for unsuccess. find: 67.80252490683702
+      Ave time for all finds: 67.91558
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.8
+      Found: 3138  Not Found: 196862
+      Fraction of successful finds: 0.01569
+      Ave time for successful find: 77.34066284257489
+      Ave time for unsuccess. find: 75.17434040088996
+      Ave time for all finds: 75.20833
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.9
+      Found: 3503  Not Found: 196497
+      Fraction of successful finds: 0.017515
+      Ave time for successful find: 71.86982586354553
+      Ave time for unsuccess. find: 108.68688071573612
+      Ave time for all finds: 108.04203
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.95
+      Found: 3840  Not Found: 196160
+      Fraction of successful finds: 0.0192
+      Ave time for successful find: 76.24583333333334
+      Ave time for unsuccess. find: 150.85386419249593
+      Ave time for all finds: 149.42139
+
+-----------Double Hashing Results--------------
+Table size: 16001    Alpha: 0.98
+      Found: 3829  Not Found: 196171
+      Fraction of successful finds: 0.019145
+      Ave time for successful find: 82.46173935753461
+      Ave time for unsuccess. find: 253.8463534365426
+      Ave time for all finds: 250.565195
+
